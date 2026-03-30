@@ -23,6 +23,14 @@
       "color": "#4527A0",
       "emoji": "🍽",
       "desc": "Eat"
+    },
+    {
+      "id": "mncyyv1zrec",
+      "name": "Learn C++",
+      "goal": 7,
+      "color": "#006A6A",
+      "emoji": "🖥",
+      "desc": "Try to lean what i dont wanna learn"
     }
   ],
   "weekly": [],
