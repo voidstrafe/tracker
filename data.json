@@ -1,0 +1,30 @@
+{
+  "daily": [
+    {
+      "id": "mncysllcmfu",
+      "name": "Workout",
+      "goal": 7,
+      "color": "#AD1457",
+      "emoji": "💪",
+      "desc": "Cali"
+    },
+    {
+      "id": "mncyt9m3h0d",
+      "name": "Gk",
+      "goal": 7,
+      "color": "#00695C",
+      "emoji": "📖",
+      "desc": ""
+    },
+    {
+      "id": "mncyvax5dmb",
+      "name": "Get Calories in",
+      "goal": 7,
+      "color": "#4527A0",
+      "emoji": "🍽",
+      "desc": "Eat"
+    }
+  ],
+  "weekly": [],
+  "checks": {}
+}
