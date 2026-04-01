@@ -5,7 +5,7 @@
       "name": "Workout",
       "goal": 7,
       "color": "#AD1457",
-      "emoji": "ðª",
+      "emoji": "Ã°ÂÂÂª",
       "desc": "Cali"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Gk",
       "goal": 7,
       "color": "#00695C",
-      "emoji": "ð",
+      "emoji": "Ã°ÂÂÂ",
       "desc": ""
     },
     {
@@ -21,7 +21,7 @@
       "name": "Get Calories in",
       "goal": 7,
       "color": "#4527A0",
-      "emoji": "ð½",
+      "emoji": "Ã°ÂÂÂ½",
       "desc": "Eat"
     },
     {
@@ -29,13 +29,17 @@
       "name": "Learn C++",
       "goal": 7,
       "color": "#006A6A",
-      "emoji": "ð¥",
+      "emoji": "Ã°ÂÂÂ¥",
       "desc": "Try to lean what i dont wanna learn"
     }
   ],
   "weekly": [],
   "checks": {
     "d|mncysllcmfu|2026-03-30": true,
-    "d|mncyvax5dmb|2026-03-30": true
+    "d|mncyvax5dmb|2026-03-30": true,
+    "d|mncyt9m3h0d|2026-04-01": true,
+    "d|mncyvax5dmb|2026-04-01": true,
+    "d|mncysllcmfu|2026-03-31": false,
+    "d|mncysllcmfu|2026-04-01": true
   }
 }
